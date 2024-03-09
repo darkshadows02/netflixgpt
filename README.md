@@ -1,7 +1,20 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## netflixgpt
+   -> create react app
+   -->config.. tailwindcss
+   -->routing
+   -->header
+   -->loginform
+   -->sign up
+   -->form validation
+   ->useref hooks
+   -->firebase login
+   -->deploying our app to pruduction
+   -->create signup user a/c
+   -->implimented sign in user api
+   -->created redux store with user slice
 ## Available Scripts
 
 In the project directory, you can run:
