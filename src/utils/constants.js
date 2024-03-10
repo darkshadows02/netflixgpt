@@ -17,4 +17,6 @@ export const Logo_Netflix="https://cdn.cookielaw.org/logos/dd6b162f-1a32-456a-9c
       {identifier:"spanish", name:"Spanish"},
   ];
 
-  export const OPENAI_GPT_KEY= process.env.REACT_APP_OPENAI;
+
+
+export const OPENAI_GPT_KEY= process.env.REACT_APP_OPENAI;
